@@ -1,0 +1,52 @@
+0
+> DEBUG:	False
+> SCRIPT_PATH:	C:\Program Files\Python36\lib\ptl\
+> ROOT_PATH:	E:\Work\jupyter_notebook\work\200pages
+> START_TIME:	20171101_1530
+> Run script:	scripts.adamsandreese
+> GET data
+> Load data from: http://www.adamsandreese.com/professionals/xpqProfResults.aspx?xpST=ProfessionalResults&key=a8bb58c1-f931-4bb6-9d9d-7dcb9c02117c&activeEntry=74b9ee21-eb9f-4ceb-983e-573cfabf2637
+> Found 301 row entries
+> Download the data
+> Started multi threading:	20171101_1531
+> Number of threads:    	16
+> Thread 0 started with 20 data entries.
+> Thread 1 started with 20 data entries.
+> Thread 2 started with 20 data entries.
+> Thread 3 started with 20 data entries.
+> Thread 4 started with 20 data entries.
+> Thread 5 started with 20 data entries.
+> Thread 6 started with 20 data entries.
+> Thread 7 started with 20 data entries.
+> Thread 8 started with 20 data entries.
+> Thread 9 started with 20 data entries.
+> Thread 10 started with 20 data entries.
+> Thread 11 started with 20 data entries.
+> Thread 12 started with 20 data entries.
+> Thread 13 started with 20 data entries.
+> Thread 14 started with 20 data entries.
+> Thread 15 started with 1 data entries.
+> Thread 15 ended.
+> Thread 5 ended.
+> Thread 2 ended.
+> Thread 9 ended.
+> Thread 4 ended.
+> Thread 13 ended.
+> Thread 8 ended.
+> Thread 0 ended.
+> Thread 11 ended.
+> Thread 12 ended.
+> Thread 7 ended.
+> Thread 3 ended.
+> Thread 1 ended.
+> Thread 10 ended.
+> Thread 6 ended.
+> Thread 14 ended.
+> Finished multi threading:	20171101_1533
+> Create folder : E:\Work\jupyter_notebook\work\200pages\raw\
+> Create folder : E:\Work\jupyter_notebook\work\200pages\raw\20171101_1530\
+> PARSE data
+> Create folder : E:\Work\jupyter_notebook\work\200pages\output\
+> Create folder : E:\Work\jupyter_notebook\work\200pages\output\20171101_1530\
+> 20171101_1533 : Save logs from adamsandreese
+> Create folder : E:\Work\jupyter_notebook\work\200pages\logs\20171101_1530\

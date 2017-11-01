@@ -1,0 +1,11 @@
+0
+> DEBUG:	False
+> SCRIPT_PATH:	C:\Program Files\Python36\lib\ptl\
+> ROOT_PATH:	E:\Work\jupyter_notebook\work\200pages
+> START_TIME:	20171101_2158
+> Run script:	scripts.akerman
+> GET data
+> Load data from: https://www.akerman.com/en/people/index.html
+> AttributeError at line 34: module 'string' has no attribute 'lowercase'
+> 20171101_2158 : Save logs from quit()
+> Create folder : E:\Work\jupyter_notebook\work\200pages\logs\20171101_2158\

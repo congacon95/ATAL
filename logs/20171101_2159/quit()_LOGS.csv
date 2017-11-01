@@ -1,0 +1,11 @@
+0
+> DEBUG:	False
+> SCRIPT_PATH:	C:\Program Files\Python36\lib\ptl\
+> ROOT_PATH:	E:\Work\jupyter_notebook\work\200pages
+> START_TIME:	20171101_2159
+> Run script:	scripts.akerman
+> GET data
+> Load data from: https://www.akerman.com/en/people/index.html
+> NameError at line 34: name 'root' is not defined
+> 20171101_2159 : Save logs from quit()
+> Create folder : E:\Work\jupyter_notebook\work\200pages\logs\20171101_2159\
